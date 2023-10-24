@@ -8,7 +8,7 @@
 # Additional styling can be done using the stylesheet.qss
 # file, also in the branding directory.
 ---
-componentName:  default
+componentName:  aster
 
 
 ### WELCOME / OVERALL WORDING
@@ -123,8 +123,8 @@ navigation: widget
 strings:
     productName:         AsterLinux
     shortProductName:    AsterLinux
-    version:             2021.05.1
-    shortVersion:        2021.05.1
+    version:             2023.10.1
+    shortVersion:        2023.10.1
     versionedName:       AsterLinux
     shortVersionedName:  AsterLinux
     bootloaderEntryName: AsterLinux
