@@ -40,6 +40,7 @@ Page {
             anchors.horizontalCenter: parent.horizontalCenter
             horizontalAlignment: Text.AlignHCenter
             font.pointSize: 12
+            color: Kirigami.Theme.textColor
             text: qsTr("%1 has been installed on your computer.<br/>
             You may now restart into your new system, or continue using the Live environment.").arg(Branding.string(Branding.ProductName))
         }
